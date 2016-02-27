@@ -1,0 +1,17 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-10001}{QQ2-1-1}{Introduction}}{3}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-20002}{QQ2-1-2}{Overview model 13.3.2}}{3}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-30002}{QQ2-1-3}{\textit  {Individuals}}}{4}\relax 
+\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{1}{x1-30061}{}{\ignorespaces Level of human capital on expected productivity growth, decision individuals}}{figure}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-40002}{QQ2-1-5}{\textit  {Entrepreneurs}}}{9}\relax 
+\doTocEntry\toclof{2}{\csname a:TocLink\endcsname{1}{x1-40042}{}{\ignorespaces Level of human capital on expected productivity growth, decision entrepreneurs}}{figure}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-50002}{QQ2-1-7}{\textit  {Equilibria}}}{13}\relax 
+\doTocEntry\toclof{3}{\csname a:TocLink\endcsname{1}{x1-50013}{}{\ignorespaces Level of human capital on expected productivity growth, equilibria}}{figure}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-60003}{QQ2-1-9}{Introduction of a subsidy}}{16}\relax 
+\doTocEntry\toclof{4}{\csname a:TocLink\endcsname{1}{x1-60044}{}{\ignorespaces Level of human capital on expected productivity growth, effect of a subsidy}}{figure}\relax 
+\doTocEntry\toclof{5}{\csname a:TocLink\endcsname{1}{x1-60065}{}{\ignorespaces Level of human capital on expected productivity growth, optimal subsidy}}{figure}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-70004}{QQ2-1-12}{Introduction of a tax}}{23}\relax 
+\doTocEntry\toclof{6}{\csname a:TocLink\endcsname{1}{x1-70066}{}{\ignorespaces Level of human capital on expected productivity growth, optimal subsidy with taxation}}{figure}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-80005}{QQ2-1-14}{Numerical example}}{28}\relax 
+\doTocEntry\toclot{1}{\csname a:TocLink\endcsname{1}{x1-80011}{}{\ignorespaces Values used in Figures 1 to 6}}{table}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-90005}{QQ2-1-16}{References}}{31}\relax 
